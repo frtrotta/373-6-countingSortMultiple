@@ -4,9 +4,9 @@
 
 int countingSortMultiple(int v[], int n, int orderedV[]);
 
-#define N 5
-#define MIN_VALUE -5
-#define MAX_VALUE 40
+#define N 10
+#define MIN_VALUE 2
+#define MAX_VALUE 7
 
 int main(int argc, char** argv) {
     int v[N], orderedV[N];
